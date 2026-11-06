@@ -4,8 +4,7 @@
 The tomato leaf disease dataset is available on the
 [dataset release page](https://github.com/huangyi1042/Cross-Architecture-Multi-Granularity-Knowledge-Distillation-for-Tomato-Leaf-Disease-Detection/releases/tag/Dataset).
 
-Open the link and download the dataset archive under **Assets**.
-[README.md](https://github.com/user-attachments/files/34455320/README.md)
+
 # Cross-Architecture Multi-Granularity Knowledge Distillation for Tomato Leaf Disease Detection
 
 This repository contains training and knowledge distillation scripts associated with **Cross-Architecture Multi-Granularity Knowledge Distillation for Tomato Leaf Disease Detection**.
